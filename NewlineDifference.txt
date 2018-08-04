@@ -1,0 +1,2 @@
+For Windows systems, the newline is CRLF (Carriage Return, Line Feed)
+On Unix systems (including Mac OSX), it's just LF
